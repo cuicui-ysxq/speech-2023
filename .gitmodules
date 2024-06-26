@@ -1,0 +1,6 @@
+[submodule "parts/speech-2023-1"]
+	path = parts/speech-2023-1
+	url = git@github.com:cuicui-ysxq/speech-2023-1.git
+[submodule "parts/speech-2023-2"]
+	path = parts/speech-2023-2
+	url = git@github.com:cuicui-ysxq/speech-2023-2.git
